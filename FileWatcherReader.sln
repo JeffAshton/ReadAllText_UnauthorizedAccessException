@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcherReader", "FileWatcherReader\FileWatcherReader.csproj", "{688C97C3-AA24-4F28-B96C-3792F358A757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcherMover", "FileWatcherMover\FileWatcherMover.csproj", "{D897BD3D-B9CD-4F63-9816-257548837484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688C97C3-AA24-4F28-B96C-3792F358A757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688C97C3-AA24-4F28-B96C-3792F358A757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688C97C3-AA24-4F28-B96C-3792F358A757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688C97C3-AA24-4F28-B96C-3792F358A757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D897BD3D-B9CD-4F63-9816-257548837484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D897BD3D-B9CD-4F63-9816-257548837484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D897BD3D-B9CD-4F63-9816-257548837484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D897BD3D-B9CD-4F63-9816-257548837484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B123CF12-B4A8-4134-A385-C9A0D6FB9FB4}
+	EndGlobalSection
+EndGlobal
